@@ -1,0 +1,256 @@
+[
+    {
+      "response_type": "greeting",
+      "user_input": ["hello", "hi", "hey","hii","namaste","hlo"],
+      "bot_response": "Hello! I am Maitri\n     How can I help you",
+      "required_words": []
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["goodbye", "bye"],
+      "bot_response": "See you later!",
+      "required_words": []
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["nice", "to", "meet", "you"],
+      "bot_response": "The pleasure is all mine!",
+      "required_words": ["nice", "meet", "you"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+      "bot_response": "Start by typing: 'How to learn coding' on Google.",
+      "required_words": ["learn", "code"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["i", "want", "to", "know", "about", "bit"],
+      "bot_response": "Its best private college in gorakhpur.\n     You can get more info from this website",
+      "required_words": ["know", "about","bit"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["refund", "how", "can", "i", "get"],
+      "bot_response": "We don't offer refunds here but you can contact in finance office for refund queries.",
+      "required_words": ["refund", "i"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "are", "you"],
+      "bot_response": "I'm great! Thanks for asking. How are you doing?",
+      "required_words": ["how", "are", "you"]
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["fine", "great", "good", "excellent"],
+      "bot_response": "Good, anything else in which I can help",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "the", "infrastructure", "of", "the", "college", "bit"],
+      "bot_response": "Infrastructure of college is really good. You can look in photo gallery of the website",
+      "required_words": ["infrastructure", "bit"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "the", "campus", "environment"],
+      "bot_response": "Nice! you will like it.",
+      "required_words": ["campus", "environment"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["is", "there", "any", "canteen"],
+      "bot_response": "Yes! there is a canteen in center of college and also stores near by known as Buddha Bazar",
+      "required_words": ["canteen"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "hostel", "facilities"],
+      "bot_response": "Hostel facilities are great with good infrastructure, wifi, safe and healthy environment",
+      "required_words": ["facilities", "hostel"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "are", "the", "facilities", "of", "bit", "provided", "to", "students"],
+      "bot_response": "Everything which a good college can provide.",
+      "required_words": ["facilities", "bit", "students"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "hostel", "facility"],
+      "bot_response": "Hostel facilities are great with good infrastructure, wifi, safe and healthy environment",
+      "required_words": ["facility", "hostel"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "are", "the", "facility", "of", "bit", "provided", "to", "students"],
+      "bot_response": "Everything which a good college can provide.",
+      "required_words": ["facility", "bit", "students"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "mess", "food"],
+      "bot_response": "Delicious! ready to eat.\n      Healthy and in reasonable price",
+      "required_words": ["mess", "food"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "faculties", "in", "bit"],
+      "bot_response": "Well experienced, kind, talented and ready to help and support.",
+      "required_words": ["faculties"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "about", "faculty", "in", "bit"],
+      "bot_response": "Well experienced, kind, talented and ready to help and support.",
+      "required_words": ["faculty"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["are", "they", "supportive", "and", "helpful"],
+      "bot_response": "Yes! always there when you need them.",
+      "required_words": ["supportive", "helpful"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["if", "talk", "about", "placement", "is", "bit", "provide", "good", "academic", "placement"],
+      "bot_response": "Placement is also very decent.\n       Companies visiting campus       20+ \n       Average Package       2,40,000\n       Highest Package       6,00,000\n       For more info you can go to placement section.",
+      "required_words": ["placement"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "are", "the", "admission", "process", "of", "bit"],
+      "bot_response": "Depending upon available seats it may vary. But you can do counselling and reserve your seat from A.K.T.U counselling procedure\n       You can also look to admission section for any further details.",
+      "required_words": ["admission", "process"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "handle", "admission", "procedure"],
+      "bot_response": "Admission and office faculties",
+      "required_words": ["handle", "admission", "procedure"]
+    },    {
+      "response_type": "question",
+      "user_input": ["what", "are", "the", "admission", "process", "of", "bit"],
+      "bot_response": "Depending upon available seats it may vary. But you can do counselling and reserve your seat from A.K.T.U counselling procedure\n       You can also look to admission section for any further details.",
+      "required_words": ["admission", "procedure"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "handle", "admission", "procedure"],
+      "bot_response": "Admission and office faculties",
+      "required_words": ["handle", "admission", "process"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "manage", "admission", "procedure"],
+      "bot_response": "Admission and office faculties",
+      "required_words": ["manage", "admission", "process"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "are", "courses", "available", "in", "bit"],
+      "bot_response": "Computer Science, Information Technology, Electornics, Mechanical and Civil",
+      "required_words": ["courses","bit"]
+    },  
+    {
+      "response_type": "question",
+      "user_input": ["where", "is", "bit"],
+      "bot_response": "It is located in gida gorakhpur",
+      "required_words": ["where","bit"]
+    },  
+    {
+      "response_type": "question",
+      "user_input": ["what", "are", "courses", "available", "in", "bit"],
+      "bot_response": "Computer Science, Information Technology, Electornics, Mechanical and Civil",
+      "required_words": ["courses"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "can", "we", "register", "in", "that", "particular", "course"],
+      "bot_response": "By applying or choosing that course.",
+      "required_words": ["register", "particular", "course"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "are", "the", "criteria", "for", "taking", "admission", "in", "bit"],
+      "bot_response": "Depending upon available seats it may vary. But you can do counselling and reserve your seat from A.K.T.U counselling procedure\n       You can also look to admission section for any further details.",
+      "required_words": ["admission", "criteria"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "will", "be", "the", "fee", "structure", "in", "college", "if", "we", "get", "it", "through", "all", "India", "or", "state", "counselling"],
+      "bot_response": "Depending upon course fee may vary. But you can pay it in two installments",  
+      "required_words": ["fee", "structure"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "will", "be", "the", "fees", "structure", "in", "college", "if", "we", "get", "it", "through", "all", "India", "or", "state", "counselling"],
+      "bot_response": "Depending upon course fee may vary. But you can pay it in two installments",  
+      "required_words": ["fees", "structure"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["if", "the", "college", "accepts", "installment", "wise", "fees"],
+      "bot_response": "Yes",
+      "required_words": ["installment","fees"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "can", "be", "a", "procedure", "of", "paying", "the", "fees"],
+      "bot_response": "You can pay it in two installment, cash, check or bank transfer as you prefer",
+      "required_words": ["procedure","paying","fee"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "can", "be", "a", "procedure", "of", "paying", "the", "fees"],
+      "bot_response": "You can pay it in two installment, cash, check or bank transfer as you prefer",
+      "required_words": ["procedure","paying","fees"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "is", "the", "highest", "package", "offered", "in", "bit"],
+      "bot_response": "I think about 6,00,000 till date",  
+      "required_words": ["highest","package"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "is", "the", "owner", "of", "bit"],
+      "bot_response": "Mr. Awadhesh Kumar",  
+      "required_words": ["bit", "owner"]
+    },  
+    {
+      "response_type": "question",
+      "user_input": ["who", "is", "the", "hod", "of", "it"],
+      "bot_response": "Mr. Manish Gupta",  
+      "required_words": ["it", "hod"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what", "is", "the", "pincode", "of", "bit"],
+      "bot_response": "273209",  
+      "required_words": ["pincode"]
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["dhanyavad", "thank", "thank you","thanks"],
+      "bot_response": "Happy to help !!",
+      "required_words": []
+    }, 
+    {
+      "response_type": "question",
+      "user_input": ["how", "is", "buddha", "institute", "of", "technology"],
+      "bot_response": "Best private college in gorakhpur",  
+      "required_words": ["how","is","buddha","institute"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "is", "bit"],
+      "bot_response": "Best private college in gorakhpur",  
+      "required_words": ["how","is","bit"]
+    }
+
+
+    
+]
